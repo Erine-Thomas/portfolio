@@ -417,9 +417,9 @@
    }
    }
  /*This line of code is for Tablet view*/
-   @media only screen and (min-width:600px) an
-       *{
-       }
+   @media only screen and (min-width:600px) {
+       /* *{
+       } */
        /*Navbar*/
 nav {
    display: flex;      
